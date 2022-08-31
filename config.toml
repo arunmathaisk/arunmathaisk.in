@@ -4,38 +4,43 @@ title = 'Arun Mathai'
 
 copyright = "Arun Mathai" 
 
-theme = "cactus"
+theme = "cupper-hugo-theme"
 
 
-[[menu.main]]
+[[menu.nav]]
 name = "Home"
 url = "/"
 weight = 1
 
-[[menu.main]]
+[[menu.nav]]
 name = "Weblog"
 url = "/weblog"
 weight = 2
 
-# [[menu.main]]
-# name = "Notes"
-# url = "/notes"
-# weight = 3
-
-[[menu.main]]
+[[menu.nav]]
 name = "Tags"
 url = "/tags"
-weight = 4
+weight = 3
 
-[[menu.main]]
-name = "Contact Me"
-url = "/contact-me"
-weight = 5
+
+[[menu.nav]]
+name = "RSS"
+url = "/index.xml"
+weight = 4
 
 [params]
   showAllPostsArchive = true
   rss = true
-  colortheme = "white"
+  #description = "This is where I live in the internets :)" 
+  footer = "All content licensed under CC BY-SA 4.0 license unless otherwise stated.Copyright © 2022 Arun Mathai."
+  katex = true
+  hideHeaderLinks = false
+  search = true
+  showThemeSwitcher = true
+  defaultDarkTheme = false
+  moveFooterToHeader = false 
+  customCss = [ "css/custom_01.css", "css/custom_02.css" ]
+  customJs = [ "js/custom_01.js", "js/custom_02.js" ]
 
 
 [permalinks]
