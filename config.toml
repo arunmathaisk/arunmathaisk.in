@@ -1,0 +1,43 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Arun Mathai'
+
+copyright = "Arun Mathai" 
+
+theme = "cactus"
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Weblog"
+url = "/weblog"
+weight = 2
+
+# [[menu.main]]
+# name = "Notes"
+# url = "/notes"
+# weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[menu.main]]
+name = "Contact Me"
+url = "/contact-me"
+weight = 5
+
+[params]
+  showAllPostsArchive = true
+  rss = true
+  colortheme = "white"
+
+
+[permalinks]
+  weblog = '/:year/:month/:day/:title'
+  notes = '/:year/:month/:day/:title'
