@@ -1,0 +1,53 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Arun Mathai'
+
+copyright = "Arun Mathai" 
+
+theme = "cupper-hugo-theme"
+
+
+[[menu.nav]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.nav]]
+name = "Weblog"
+url = "/weblog"
+weight = 2
+
+[[menu.nav]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.nav]]
+name = "Websites I Like"
+url = "/websites-i-like"
+weight = 4
+
+[[menu.nav]]
+name = "RSS"
+url = "/index.xml"
+weight = 5
+
+[params]
+  showAllPostsArchive = true
+  rss = true
+  #description = "This is where I live in the internets :)" 
+  footer = "All content licensed under CC BY-SA 4.0 license unless otherwise stated.Copyright © 2022 Arun Mathai."
+  katex = true
+  hideHeaderLinks = false
+  search = true
+  showThemeSwitcher = true
+  defaultDarkTheme = false
+  
+  moveFooterToHeader = false 
+  customCss = [ "css/custom_01.css", "css/custom_02.css" ]
+  customJs = [ "js/custom_01.js", "js/custom_02.js" ]
+
+
+[permalinks]
+  weblog = '/:year/:month/:day/:title'
+  notes = '/:year/:month/:day/:title'
