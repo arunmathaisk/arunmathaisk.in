@@ -3,7 +3,7 @@ title: Home
 date: 2016-08-24 17:51:42
 ---
 
-<!-- ![Me](/PFPs/arun_edge_detection.jpg) -->
+![Me](/PFPs/arun_edge_detection.jpg)
 
 Hello All, My name is Arun Mathai S.K.
 
