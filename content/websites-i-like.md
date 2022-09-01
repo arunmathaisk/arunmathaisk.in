@@ -1,8 +1,16 @@
 ---
 title: Websites I Like
-date: 2016-08-24 17:51:42
 slug : websites-i-like
-draft : true
 ---
 
-test 123
+*If any of the links are broken, please let me know* 😁.
+
+### Personal Websites 
+
+* [Akshay S Dinesh](https://asd.learnlearn.in/)
+* [Ravi Dwivedi](https://ravidwivedi.in/)
+* [Sahil Dhiman](https://blog.sahilister.in/)
+* [Abraham Raji](https://abrahamraji.in/)
+* [Aral Balkan](https://ar.al/)
+
+
