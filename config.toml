@@ -27,10 +27,17 @@ name = "Websites I Like"
 url = "/websites-i-like"
 weight = 4
 
+
+[[menu.nav]]
+name = "Contact Me"
+url = "/contact-me"
+weight = 5
+
+
 [[menu.nav]]
 name = "RSS"
 url = "/index.xml"
-weight = 5
+weight = 6
 
 [params]
   showAllPostsArchive = true
