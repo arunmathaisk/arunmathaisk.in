@@ -56,5 +56,5 @@ weight = 6
 
 
 [permalinks]
-  weblog = 'weblog/:title'
+  weblog = '/weblog/:title'
   notes = '/notes/:title'
