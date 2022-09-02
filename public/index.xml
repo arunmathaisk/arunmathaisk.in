@@ -9,21 +9,42 @@
     <copyright>Arun Mathai</copyright>
     <lastBuildDate>Wed, 24 Aug 2016 17:51:42 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Youtube Channels I Like</title>
+      <link>/notes/youtube-channels-i-like/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/notes/youtube-channels-i-like/</guid>
+      <description>These are the channels I somewhat enjoy watching&amp;hellip;, although I might not be so up to date with them.
+If any of the links are broken, please let me know 😁.
+Food Stuff  Strictly Dumpling Mark Wiens The Food Ranger  Techinal Stuff  Dave&amp;rsquo;s Garage Strange Parts tripcode!Q/7 Jadi Tsoding Daily Marcus Hutchins  Other Random Stuff  Paolo fromTOKYO  </description>
+    </item>
+    
+    <item>
+      <title>Websites I Like</title>
+      <link>/notes/websites-i-like/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/notes/websites-i-like/</guid>
+      <description>If any of the links are broken, please let me know 😁.
+Personal Websites  Akshay S Dinesh Ravi Dwivedi Sahil Dhiman Abraham Raji Aral Balkan  </description>
+    </item>
+    
+    <item>
       <title>If I can&#39;t see the source, I can&#39;t feel my soul</title>
-      <link>/2021/12/18/if-i-cant-see-the-source-i-cant-feel-my-soul/</link>
+      <link>/weblog/if-i-cant-see-the-source-i-cant-feel-my-soul/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/12/18/if-i-cant-see-the-source-i-cant-feel-my-soul/</guid>
+      <guid>/weblog/if-i-cant-see-the-source-i-cant-feel-my-soul/</guid>
       <description>I know, I know the title really does not make much sense, but try to get the vibe. I started using computers quite early in my life.My first machine was a sturdy HP-Windows XP Box .
 I never really cared back then about privacy and stuff, for I even did not even know what privacy meant. In fact, I really was not even bothered with surveillance and stuff for quite a major portion of my teenage life.</description>
     </item>
     
     <item>
       <title>Why I love healthy communities</title>
-      <link>/2021/06/14/why-i-love-healthy-communities/</link>
+      <link>/weblog/why-i-love-healthy-communities/</link>
       <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2021/06/14/why-i-love-healthy-communities/</guid>
+      <guid>/weblog/why-i-love-healthy-communities/</guid>
       <description>Having a community where you can discuss your ideas, talk with people who have similar ideologies or with people who
 have ideolgies poles apart from what you have is truly a privilege.
 A safe and healthly community is a perfect place for growth.
@@ -33,10 +54,10 @@ FSCI is just not about tech and liberation, I feel it is actually about the peop
     
     <item>
       <title>Does a soul exist?</title>
-      <link>/2019/12/15/does-a-soul-exist/</link>
+      <link>/weblog/does-a-soul-exist/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/12/15/does-a-soul-exist/</guid>
+      <guid>/weblog/does-a-soul-exist/</guid>
       <description>I mean all that comes to my mind when I think about the word “soul” is the vague figure of a spirit. (As shown in a few movies)
 Other questions which pop up in my mind are:
 Is a spirit and a soul the same? And if a soul exists, then where does it reside?
@@ -44,20 +65,11 @@ And can a soul be sentient/intelligent/self-aware, If yes then how is it able to
     </item>
     
     <item>
-      <title>Testing Stuff</title>
-      <link>/2019/12/15/testing-stuff/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/12/15/testing-stuff/</guid>
-      <description>hey all testing stuff</description>
-    </item>
-    
-    <item>
       <title>There really exists no software</title>
-      <link>/2019/05/03/there-really-exists-no-software/</link>
+      <link>/weblog/there-really-exists-no-software/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/05/03/there-really-exists-no-software/</guid>
+      <guid>/weblog/there-really-exists-no-software/</guid>
       <description>When I was a small child I used to wonder how computer storage worked and like how I used to click on the delete button and the computer would delete the files magically for me.
 I always compared a computer to an actual human and the fact that you could delete files on demand got me crazy cause as a human I could never do that and neither can i do it now.</description>
     </item>
@@ -75,16 +87,6 @@ Twitter : @arunmathaisk
 Mastodon : https://mastodon.social/@arunmathaisk
 XMPP : arunmathaisk on disroot.org
 IRC : arunmathaisk on irc.libera.chat</description>
-    </item>
-    
-    <item>
-      <title>Websites I Like</title>
-      <link>/websites-i-like/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/websites-i-like/</guid>
-      <description>If any of the links are broken, please let me know 😁.
-Personal Websites  Akshay S Dinesh Ravi Dwivedi Sahil Dhiman Abraham Raji Aral Balkan  </description>
     </item>
     
   </channel>
