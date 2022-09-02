@@ -18,15 +18,15 @@ url = "/weblog"
 weight = 2
 
 [[menu.nav]]
-name = "Tags"
-url = "/tags"
+name = "Notes"
+url = "/notes"
 weight = 3
 
-[[menu.nav]]
-name = "Websites I Like"
-url = "/websites-i-like"
-weight = 4
 
+[[menu.nav]]
+name = "Tags"
+url = "/tags"
+weight = 4
 
 [[menu.nav]]
 name = "Contact Me"
@@ -56,5 +56,5 @@ weight = 6
 
 
 [permalinks]
-  weblog = '/:year/:month/:day/:title'
-  notes = '/:year/:month/:day/:title'
+  weblog = 'weblog/:title'
+  notes = '/notes/:title'

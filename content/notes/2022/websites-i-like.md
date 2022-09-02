@@ -1,6 +1,6 @@
 ---
 title: Websites I Like
-slug : websites-i-like
+date: "2022-09-01"
 ---
 
 *If any of the links are broken, please let me know* 😁.
