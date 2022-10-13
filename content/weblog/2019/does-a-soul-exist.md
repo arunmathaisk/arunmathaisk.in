@@ -1,5 +1,6 @@
 ---
 title: "Does a soul exist?"
+slug: "Does a soul exist"
 date: "2019-12-15"
 tags: 
   - "life"

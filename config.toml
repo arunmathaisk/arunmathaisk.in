@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Arun Mathai'
+title = "Arun Mathai"
 
 copyright = "Arun Mathai" 
 
@@ -56,5 +56,5 @@ weight = 6
 
 
 [permalinks]
-  weblog = '/weblog/:title'
-  notes = '/notes/:title'
+  weblog = '/weblog/:slug'
+  notes = '/notes/:slug'

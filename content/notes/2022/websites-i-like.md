@@ -1,5 +1,6 @@
 ---
-title: Websites I Like
+title: "Websites I Like"
+slug: "Websites I Like"
 date: "2022-09-01"
 ---
 

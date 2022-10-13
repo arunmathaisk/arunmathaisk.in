@@ -1,5 +1,6 @@
 ---
 title: "There really exists no software"
+slug: "There really exists no software"
 date: "2019-05-03"
 tags: 
   - "philosophical"

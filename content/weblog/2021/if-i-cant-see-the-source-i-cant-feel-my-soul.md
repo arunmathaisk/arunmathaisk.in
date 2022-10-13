@@ -1,5 +1,6 @@
 ---
 title: "If I can't see the source, I can't feel my soul"
+slug: "If I can't see the source, I can't feel my soul"
 date: "2021-12-18"
 tags: 
   - "libre-software"

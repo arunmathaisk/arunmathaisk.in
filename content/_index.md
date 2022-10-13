@@ -1,5 +1,6 @@
 ---
-title: Home
+title: "Home"
+slug: "home"
 date: 2016-08-24 17:51:42
 ---
 

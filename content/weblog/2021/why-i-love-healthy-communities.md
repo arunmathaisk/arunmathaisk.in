@@ -1,5 +1,6 @@
 ---
 title: "Why I love healthy communities"
+slug: "Why I love healthy communities"
 date: "2021-06-14"
 tags: 
   - "community"

@@ -1,7 +1,7 @@
 ---
-title: Contact Me
+title: "Contact Me"
+slug : "contact-me"
 date: "2019-05-02"
-slug : contact-me
 ---
 
 Feel free to contact me regarding anything via :
