@@ -15,7 +15,7 @@ Things simply fascinate me and the human brain is something I highly admire .
 Here are some of the things I like.
 [Computers, Programming, Internet, Food, Music, Science, Movies & TV-Shows].
 
-Just like any other obedient zombie out there 🙂 .
+Just like any other obedient zombie out there :).
 
 I am not much of an athletic person but yes, I do like to run sometimes (Well.. what is the harm in claiming right).
 

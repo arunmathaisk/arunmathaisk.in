@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/community/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/corporate/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/libre-software/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/weblog/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/weblog/yummy-corporate-offerings/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/notes/</loc>
     <lastmod>2022-09-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,16 +29,7 @@
     <loc>/notes/websites-i-like/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/community/</loc>
-    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/fsci/</loc>
-    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/weblog/</loc>
     <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/weblog/why-i-love-healthy-communities/</loc>

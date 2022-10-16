@@ -7,13 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Arun Mathai</copyright>
-    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>community</title>
       <link>/tags/community/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>corporate</title>
+      <link>/tags/corporate/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/corporate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libre-software</title>
+      <link>/tags/libre-software/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/libre-software/</guid>
       <description></description>
     </item>
     
