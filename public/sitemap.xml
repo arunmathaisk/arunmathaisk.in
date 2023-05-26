@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/weblog/am-i-a-fraud/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/community/</loc>
-    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/fraud/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/imposter/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/self-doubt/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/weblog/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/corporate/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/libre-software/</loc>
-    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/weblog/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/weblog/yummy-corporate-offerings/</loc>
