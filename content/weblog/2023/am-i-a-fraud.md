@@ -10,7 +10,7 @@ tags:
 ---
 Imposter syndrome, a struggle experienced by many, has been a constant presence in my life. Despite my coding skills and technical knowledge, there are times when I can't help but feel like a fraud, merely faking my way through. But I've come to realize that imposter syndrome is a common phenomenon, and I am not alone in this battle. Through self-reflection and embracing my true abilities, I've learned to navigate these feelings and grow both personally and professionally.
 
-Imposter syndrome has haunted me, causing self-doubt and fear of being exposed as a fraud, even when I have evidence of my accomplishments and experience. My friend Akshay Dinesh during a discussion recently said 
+Imposter syndrome has haunted me, causing self-doubt and fear of being exposed as a fraud, even when I have evidence of my accomplishments and experience. My friend [Akshay S Dinesh](https://asd.learnlearn.in/) during a discussion recently said 
 
 >"See, imposter syndrome - many suffer from.
 >One part of it maybe real. But those with imposter syndrome usually overcompensate by building lots of skill.
