@@ -15,12 +15,13 @@ These are the channels I somewhat enjoy watching..., although I might not be so 
 * [Mark Wiens](https://www.youtube.com/c/MarkWiens)
 * [The Food Ranger](https://www.youtube.com/c/thefoodranger)
 
-### Techinal Stuff
+### Technical Stuff
 
 * [Dave's Garage](https://www.youtube.com/c/DavesGarage)
 * [Strange Parts](https://www.youtube.com/c/StrangeParts)
 * [tripcode!Q/7](https://www.youtube.com/c/tripcodeQ7)
 * [Jadi](https://www.youtube.com/c/geekingjadi)
+* [稚晖君](https://www.youtube.com/channel/UCBAdGeil51Iw4y29Sh9Y7hA)
 * [Tsoding Daily](https://www.youtube.com/c/TsodingDaily)
 * [Jeff Geerling](https://www.youtube.com/c/JeffGeerling)
 * [Computerphile](https://www.youtube.com/user/Computerphile)
