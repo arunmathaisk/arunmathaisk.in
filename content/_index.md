@@ -6,17 +6,26 @@ date: 2016-08-24 17:51:42
 
 ![Image of Arun Mathai S.K.](/PFPs/arun_edge_detection.jpg)
 
-Hey there,
+Hello All, My name is Arun Mathai S.K.
 
-The name's Arun Mathai S.K. – a concoction of thoughts, tinkering, and perpetual learning.
+I consider myself to be a thinker, tinkerer and learner.
 
-Here's a sneak peek into my interests:
+Things simply fascinate me and the human brain is something I highly admire .
 
+Here are some of the things I like.
 [Computers, Programming, Internet, Food, Music, Science, Movies & TV-Shows].
 
-Just your everyday enthusiast here, striving to sprinkle a positive touch on society with the smattering of knowledge I've got. 
-Small ripples, after all, create the most meaningful waves. Call me a believer in the power of collective individualism. 🤷
+Just like any other obedient zombie out there :).
 
-Want to delve a little deeper into my world? Just drop a casual "Hi!"
+Basically, I’m just a guy tying to make a positive impact on society with the limited knowledge I possess. I wholeheartedly believe that even the smallest contribution has the power to bring about meaningful change. I know it may sound cliché, but I truly believe in the collective strength of individual actions.
 
-Oh, and if you're seeking me out on the vast expanse of the internet, I go by @arunmathaisk.😄
+So yeah that's all about me :)
+
+If you still wanna know more about me, simply send across a “Hi!”.
+
+I mostly go by @arunmathaisk on the internets.
+
+
+
+
+

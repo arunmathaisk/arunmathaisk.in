@@ -51,7 +51,7 @@ weight = 6
   defaultDarkTheme = false
   
   moveFooterToHeader = false 
-  # customCss = [ "css/custom_01.css", "css/custom_02.css" ]
+  customCss = [ "css/custom_01.css"]
   # customJs = [ "js/custom_01.js", "js/custom_02.js" ]
 
 
