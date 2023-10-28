@@ -4,7 +4,7 @@ slug: "home"
 date: 2016-08-24 17:51:42
 ---
 
-![Image of Arun Mathai S.K.](/PFPs/me2.jpeg)
+![Image of Arun Mathai S.K.](PFPs/me2.jpeg)
 
 Hello, everyone! I'm Arun Mathai S.K.
 
