@@ -8,6 +8,8 @@ Feel free to contact me regarding anything via :
 
 Email : me@arunmathaisk.in
 
+LinkedIn : [@arunmathaisk](https://www.linkedin.com/in/arunmathaisk)
+
 Instagram : [@arunmathaisk](https://instagram.com/arunmathaisk)
 
 Twitter : [@arunmathaisk](https://twitter.com/arunmathaisk)

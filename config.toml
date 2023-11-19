@@ -1,4 +1,4 @@
-baseURL = 'https://arunmathaisk.gitlab.io/arunmathaisk.in/'
+baseURL = '/'
 languageCode = 'en-us'
 title = "Arun Mathai"
 
@@ -53,7 +53,6 @@ weight = 6
   moveFooterToHeader = false 
   customCss = [ "css/custom_01.css"]
   # customJs = [ "js/custom_01.js", "js/custom_02.js" ]
-
 
 [permalinks]
   weblog = '/weblog/:slug'
