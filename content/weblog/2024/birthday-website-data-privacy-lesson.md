@@ -14,7 +14,7 @@ Almost two years ago, I embarked on what I thought was a harmless, even helpful,
 
 It all started when I somehow (ahem ahem) got access to the entire student database of my college. Among various columns of data, one caught my attention: the date of birth (DOB) of students. With the enthusiasm of a developer eager to work on a new project, I saw an opportunity to create something that could bring a little joy to me and maybe my batchmates.
 
-The idea was simple. I decided to build a website that would highlight the students with their birthdays on any given day, along with a list of upcoming birthdays for the week. My friend Aryan Kumar made a cute UI for the website and later got involved in mainting it in good capacity.
+The idea was simple. I decided to build a website that would highlight the students with their birthdays on any given day, along with a list of upcoming birthdays for the week. My friend Aryan Kumar made a cute UI for the website and later got involved in maintaining it in good capacity.
 We worked on it with pure intentions, aiming to foster a sense of community and connection among the students.
 
 Below are some development version screenshots : 
