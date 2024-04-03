@@ -10,7 +10,7 @@ tags:
   - "naive"
 ---
 
-Almost a year ago, I embarked on what I thought was a harmless, even helpful, project. My curiosity and love for programming led me to create a small website, a project that eventually taught me a profound lesson about data privacy.
+Almost two years ago, I embarked on what I thought was a harmless, even helpful, project. My curiosity and love for programming led me to create a small website, a project that eventually taught me a profound lesson about data privacy.
 
 It all started when I somehow (ahem ahem) got access to the entire student database of my college. Among various columns of data, one caught my attention: the date of birth (DOB) of students. With the enthusiasm of a developer eager to work on a new project, I saw an opportunity to create something that could bring a little joy to me and maybe my batchmates.
 
