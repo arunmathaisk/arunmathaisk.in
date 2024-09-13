@@ -47,6 +47,26 @@ url = "/contact-me"
 [markup.highlight]
 style = 'bw'
 
+
+[[params.social]]
+name = "github"
+url = "https://github.com/arunmathaisk"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/arunmathaisk"
+
+
+[[params.social]]
+name = "x"
+url = "https://x.com/arunmathaisk"
+
+
+[[params.social]]
+name = "instagram"
+url = "https://instagram.com/arunmathaisk"
+
+
 # Deploy settings
 
 [[deployment.matchers]]
