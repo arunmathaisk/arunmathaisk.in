@@ -6,7 +6,9 @@ theme = 'typo'
 
 
 # Lists parameters
-paginationSize = 10
+[params]
+paginationSize = 100
+listDateFormat = '02 Jan 2006'
 
 [taxonomies]
 tag = 'tags'
@@ -15,7 +17,6 @@ tag = 'tags'
 theme = 'auto'
 colorPalette = 'default'
 hideHeader = false
-
 
 # Breadcrumbs
 breadcrumbs = true
