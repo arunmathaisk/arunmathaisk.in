@@ -4,7 +4,8 @@ slug: "home"
 date: 2016-08-24 17:51:42
 ---
 
-![Image of Arun Mathai S.K.](PFPs/me2.jpeg)
+{{< figure src="/PFPs/me2.jpeg" alt="Image of Arun Mathai S.K." width="250px" >}}
+
 
 Hello, everyone! I'm Arun Mathai S.K.
 
@@ -13,6 +14,7 @@ I consider myself to be a thinker, tinkerer and learner.
 Things simply fascinate me and the human brain is something I highly admire .
 
 Here are some of the things I like.
+
 [Computers, Programming, Internet, Food, Music, Science, Movies & TV-Shows].
 
 Just like any other obedient zombie out there 👀.

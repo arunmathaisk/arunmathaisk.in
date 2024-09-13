@@ -1,0 +1,46 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = "Arun Mathai"
+copyright = "Arun Mathai" 
+theme = 'typo'
+
+
+# Lists parameters
+paginationSize = 50
+listSummaries = true
+
+
+[taxonomies]
+tag = 'tags'
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+
+# Breadcrumbs
+breadcrumbs = true
+
+[[params.menu]]
+name = "Home"
+url = "/"
+
+[[params.menu]]
+name = "Weblog"
+url = "/weblog"
+
+
+[[params.menu]]
+name = "Notes"
+url = "/notes"
+
+[[params.menu]]
+name = "Contact Me"
+url = "/contact-me"
+
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'

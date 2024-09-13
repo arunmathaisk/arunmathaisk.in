@@ -7,6 +7,7 @@ tags:
   - "rsync"
   - "cloud"
   - "backup"
+showTags: true
 ---
 
 For years, I've been the self-appointed guardian of my family's digital treasures, diligently backing up everything on trusty 128 GB SanDisk USBs. You name it, from family photos to important documents, it was all meticulously stored on those little drives. But here's the kicker: I wanted a cloud solution, something that could offer the same level of security and accessibility without breaking the bank.

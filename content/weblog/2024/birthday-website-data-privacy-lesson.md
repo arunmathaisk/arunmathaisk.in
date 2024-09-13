@@ -8,6 +8,7 @@ tags:
   - "data privacy"
   - "privacy"
   - "naive"
+showTags: true
 ---
 
 Almost two years ago, I embarked on what I thought was a harmless, even helpful, project. My curiosity and love for programming led me to create a small website, a project that eventually taught me a profound lesson about data privacy.

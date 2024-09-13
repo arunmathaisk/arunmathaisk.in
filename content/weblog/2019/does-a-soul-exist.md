@@ -1,11 +1,12 @@
 ---
 title: "Does a soul exist?"
-slug: "Does a soul exist"
+slug: "does-a-soul-exist"
 date: "2019-12-15"
 tags: 
   - "life"
   - "philosophical"
   - "random"
+showTags: true
 ---
 
 I mean all that comes to my mind when I think about the word “soul” is the vague figure of a spirit. (As shown in a few movies)

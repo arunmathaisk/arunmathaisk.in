@@ -1,11 +1,12 @@
 ---
 title: "There really exists no software"
-slug: "There really exists no software"
+slug: "there-really-exists-no-software"
 date: "2019-05-03"
 tags: 
   - "philosophical"
   - "random"
   - "software"
+showTags: true
 ---
 
 When I was a small child I used to wonder how computer storage worked and like how I used to click on the delete button and the computer would delete the files magically for me.

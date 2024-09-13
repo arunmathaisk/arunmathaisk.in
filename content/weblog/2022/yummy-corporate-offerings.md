@@ -1,11 +1,12 @@
 ---
 title: "Yummy corporate offerings"
-slug: "Yummy corporate offerings"
+slug: "yummy-corporate-offerings"
 date: "2022-10-16"
 tags: 
   - "community"
   - "corporate"
   - "libre-software"
+showTags: true
 ---
 
 I would like to believe that I genuinely value the Libre Software principles, ethics, and the whole ecosystem around it. And on the other hand, I do not like nor agree with the business and ethical practices of these huge corporate companies.

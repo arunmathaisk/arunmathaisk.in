@@ -8,6 +8,7 @@ tags:
   - "privacy"
   - "windows"
 draft: true
+showTags: true
 ---
 
 I know, I know the title really does not make much sense, but try to get the vibe. I started using computers quite early in my life.My first machine was a sturdy HP-Windows XP Box .

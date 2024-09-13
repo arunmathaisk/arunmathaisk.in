@@ -1,10 +1,11 @@
 ---
 title: "Why I love healthy communities"
-slug: "Why I love healthy communities"
+slug: "why-i-love-healthy-communities"
 date: "2021-06-14"
 tags: 
   - "community"
   - "fsci"
+showTags: true
 ---
 
 Having a community where you can discuss your ideas, talk with people who have similar ideologies or with people who  
