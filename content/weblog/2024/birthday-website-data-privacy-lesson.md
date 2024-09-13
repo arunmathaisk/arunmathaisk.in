@@ -20,10 +20,8 @@ We worked on it with pure intentions, aiming to foster a sense of community and 
 
 Below are some development version screenshots : 
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <img src="/images/mobile.jpg" alt="Mobile View" style="width: auto; height: auto;">
-  <img src="/images/desktop.jpg" alt="Desktop View" style="width: auto; height: auto;">
-</div>
+![Mobile View](/images/mobile.jpg#small "Mobile View")
+![Desktop View](/images/desktop.jpg#small "Desktop View")
 
 The website launched, and to our delight, it quickly became popular among the students. It was a hit! (on average 500+ daily hits from unique IPs). Students visited the website daily to check on their birthdays and those of their friends, sending wishes and spreading cheer.
 
