@@ -6,9 +6,7 @@ theme = 'typo'
 
 
 # Lists parameters
-paginationSize = 50
-listSummaries = true
-
+paginationSize = 10
 
 [taxonomies]
 tag = 'tags'
@@ -36,11 +34,31 @@ name = "Notes"
 url = "/notes"
 
 [[params.menu]]
+name = "Tags"
+url = "/tags"
+
+[[params.menu]]
 name = "Contact Me"
 url = "/contact-me"
-
 
 # Syntax highligth on code blocks
 [markup]
 [markup.highlight]
-style = 'algol'
+style = 'bw'
+
+# Deploy settings
+
+[[deployment.matchers]]
+pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg|gif|webp)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+
+[permalinks]
+  weblog = '/weblog/:slug'
+  notes = '/notes/:slug'
