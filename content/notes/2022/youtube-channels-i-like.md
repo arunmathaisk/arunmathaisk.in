@@ -1,6 +1,6 @@
 ---
 title: "Youtube Channels I Like"
-slug: "Youtube Channels I Like"
+slug: "youtube-channels-i-like"
 date: "2022-09-02"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Random Pics"
-slug: "Random Pics"
+slug: "random-pics"
 date: "2020-09-02"
 ---
 
