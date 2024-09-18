@@ -16,13 +16,13 @@ paginationSize = 100
 listDateFormat = '02 Jan 2006'
 toc = false
 breadcrumbs = true
+showFooter = true
+footerContent = """
+All content licensed under CC BY-SA 4.0 license unless otherwise stated. Copyright © 2024 Arun Mathai.
+"""
 
 [taxonomies]
 tag = 'tags'
-
-
-
-
 
 [[params.menu]]
 name = "Home"
