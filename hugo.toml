@@ -4,9 +4,6 @@ title = "Arun Mathai"
 copyright = "Arun Mathai" 
 theme = 'typo'
 
-
-
-
 # Lists parameters
 [params]
 theme = 'auto'
@@ -68,6 +65,12 @@ url = "https://x.com/arunmathaisk"
 [[params.social]]
 name = "instagram"
 url = "https://instagram.com/arunmathaisk"
+
+
+[params.umami]
+enable = true
+websiteId = "f727cce7-f2e8-4f29-8c51-a5400fe35123"
+jsLocation = "https://cloud.umami.is/script.js"
 
 
 # Deploy settings
