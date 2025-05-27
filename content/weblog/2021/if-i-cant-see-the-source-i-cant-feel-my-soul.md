@@ -7,7 +7,6 @@ tags:
   - "paranoid"
   - "privacy"
   - "windows"
-draft: true
 showTags: true
 ---
 

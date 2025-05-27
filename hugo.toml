@@ -12,10 +12,9 @@ hideHeader = false
 paginationSize = 100
 listDateFormat = '02 Jan 2006'
 toc = false
-breadcrumbs = true
 showFooter = true
 footerContent = """
-All content licensed under CC BY-SA 4.0 license unless otherwise stated. Copyright © 2024 Arun Mathai.
+All content licensed under CC BY-SA 4.0 license unless otherwise stated. Copyright © 2025 Arun Mathai.
 """
 
 [taxonomies]
@@ -72,6 +71,8 @@ enable = true
 websiteId = "f727cce7-f2e8-4f29-8c51-a5400fe35123"
 jsLocation = "https://cloud.umami.is/script.js"
 
+[params.breadcrumbs]
+enabled = true 
 
 # Deploy settings
 
