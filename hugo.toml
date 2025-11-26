@@ -7,7 +7,7 @@ theme = 'typo'
 # Lists parameters
 [params]
 theme = 'auto'
-colorPalette = 'default'
+colorPalette = 'gruvebox'
 hideHeader = false
 paginationSize = 100
 listDateFormat = '02 Jan 2006'
