@@ -7,14 +7,14 @@ theme = 'typo'
 # Lists parameters
 [params]
 theme = 'auto'
-colorPalette = 'gruvebox'
+colorPalette = 'default'
 hideHeader = false
 paginationSize = 100
 listDateFormat = '02 Jan 2006'
 toc = false
 showFooter = true
 footerContent = """
-All content licensed under CC BY-SA 4.0 license unless otherwise stated. Copyright © 2025 Arun Mathai.
+All content licensed under CC BY-SA 4.0 license unless otherwise stated. Copyright © 2026 Arun Mathai.
 """
 
 [taxonomies]
@@ -69,7 +69,7 @@ url = "https://instagram.com/arunmathaisk"
 [params.umami]
 enable = true
 websiteId = "f727cce7-f2e8-4f29-8c51-a5400fe35123"
-jsLocation = "https://cloud.umami.is/script.js"
+jsLocation = "https://arunmathaisk.in/script.js"
 
 [params.breadcrumbs]
 enabled = true 
